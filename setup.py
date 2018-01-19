@@ -5,7 +5,7 @@ __version__ = '0.0.1'
 
 
 setup(
-    name="ion-mq",
+    name="ionmq",
     version=__version__,
     author="Anton Trapeznikov",
     license="MIT",
