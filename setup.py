@@ -8,7 +8,7 @@ setup(
     name="ion-mq",
     version=__version__,
     author="Anton Trapeznikov",
-    license="http://creativecommons.org/licenses/by-sa/3.0/",
+    license="MIT",
     url="https://github.com/anton-trapeznikov/ion-mq",
     platforms=["any"],
 )
