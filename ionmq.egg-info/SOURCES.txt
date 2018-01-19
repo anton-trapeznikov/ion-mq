@@ -1,0 +1,7 @@
+setup.py
+ionmq/__init__.py
+ionmq/ionmq.py
+ionmq.egg-info/PKG-INFO
+ionmq.egg-info/SOURCES.txt
+ionmq.egg-info/dependency_links.txt
+ionmq.egg-info/top_level.txt
